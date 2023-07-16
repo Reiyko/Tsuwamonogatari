@@ -22,19 +22,11 @@
       }
     },
     "7": {
-      "title": "Tsuwamonogatari Vol 7#1",
+      "title": "Tsuwamonogatari Vol 7",
       "volume": "7",
       "last_updated": "1689523806",
       "groups": {
         "": "/proxy/api/imgur/chapter/wvZdvFI"
-      }
-    },
-    "8": {
-      "title": "Tsuwamonogatari Vol 7 #2",
-      "volume": "7",
-      "last_updated": "1689523841",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/dMjnnsv"
       }
     }
   }
