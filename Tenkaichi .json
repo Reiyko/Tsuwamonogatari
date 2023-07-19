@@ -1,0 +1,25 @@
+{
+  "title": "Tenkaichi ",
+  "description": "The year is 1600. Ten years have passed since Oda Nobunaga unified Japan. When Nobunaga realized that he was dying, he announced that he would hand over the country to the one who produced the strongest warriors. The warlords, whose dreams of unifying the country had been dashed, set up their own strongest warriors and set their sights on becoming the ruler of Japan\n\n",
+  "artist": "Azuma Kyoutarou",
+  "author": "Nakamaru Yousuke",
+  "cover": "https://m.media-amazon.com/images/I/71g7THKYU8S.jpg",
+  "chapters": {
+    "6": {
+      "title": "Tenkaichi Vol 6",
+      "volume": "6",
+      "last_updated": "1689794015",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/XS9UPIw"
+      }
+    },
+    "7": {
+      "title": "Tenkaichi Vol 7",
+      "volume": "7",
+      "last_updated": "1689794681",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/MyV7yCn"
+      }
+    }
+  }
+}
