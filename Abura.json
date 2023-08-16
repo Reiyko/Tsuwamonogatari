@@ -4,5 +4,14 @@
   "artist": "Baku Sakuzou",
   "author": "Number 8",
   "cover": "https://csbs.shogakukan.co.jp/img/comics/506w/098516280000d0000000.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Abura Vol 1",
+      "volume": "1",
+      "last_updated": "1692222768",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/U6rvlMc"
+      }
+    }
+  }
 }
