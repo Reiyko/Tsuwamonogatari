@@ -62,7 +62,7 @@
       }
     },
     "8": {
-      "title": "8",
+      "title": "Ch 8",
       "volume": "3",
       "last_updated": "1692601960",
       "groups": {
@@ -70,7 +70,7 @@
       }
     },
     "9": {
-      "title": "9",
+      "title": "Ch 9",
       "volume": "3",
       "last_updated": "1692602481",
       "groups": {
@@ -83,6 +83,14 @@
       "last_updated": "1692602680",
       "groups": {
         "": "/proxy/api/imgur/chapter/Irmhjf2"
+      }
+    },
+    "11": {
+      "title": "Ch 11",
+      "volume": "3",
+      "last_updated": "1692603088",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ZIsGjZT"
       }
     },
     "24": {
