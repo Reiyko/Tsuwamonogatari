@@ -4,5 +4,22 @@
   "artist": "Iizuka Keita",
   "author": "Umemura Shin'ya",
   "cover": "https://mangadex.org/covers/f6f3fe1c-c086-4f50-a8cf-3ec48fa3f3a8/6c89994d-6d6b-4534-b0ac-06d8d1565382.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Jack Vol 1",
+      "volume": "1",
+      "last_updated": "1693155465",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/KfPS2oC"
+      }
+    },
+    "2": {
+      "title": "Jack Vol 2",
+      "volume": "2",
+      "last_updated": "1693155517",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/1qSpR5J"
+      }
+    }
+  }
 }
