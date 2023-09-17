@@ -12,6 +12,14 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/ZbXx8Mb"
       }
+    },
+    "2": {
+      "title": "Vol 2",
+      "volume": "2",
+      "last_updated": "1694926651",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/cEtgP32"
+      }
     }
   }
 }
