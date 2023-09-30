@@ -14,11 +14,27 @@
       }
     },
     "2": {
-      "title": "2",
+      "title": "Tengen Vol 2",
       "volume": "2",
       "last_updated": "1696054977",
       "groups": {
         "": "/proxy/api/imgur/chapter/uLkWU3W"
+      }
+    },
+    "3": {
+      "title": "Tengen Vol 3",
+      "volume": "3",
+      "last_updated": "1696055123",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/29Ve4hX"
+      }
+    },
+    "4": {
+      "title": "Tengen Vol 4",
+      "volume": "4",
+      "last_updated": "1696055143",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/LCD7N5g"
       }
     }
   }
