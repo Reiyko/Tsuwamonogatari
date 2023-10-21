@@ -12,6 +12,22 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/bZQbz4Z"
       }
+    },
+    "2": {
+      "title": "Sanada Vol 2",
+      "volume": "2",
+      "last_updated": "1697922330",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/q2yiuKb"
+      }
+    },
+    "3": {
+      "title": "Sanada Vol 3",
+      "volume": "3",
+      "last_updated": "1697922409",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Wh2y2sG"
+      }
     }
   }
 }
