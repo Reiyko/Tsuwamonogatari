@@ -68,6 +68,22 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/DginfB8"
       }
+    },
+    "11": {
+      "title": "Ch 11",
+      "volume": "1",
+      "last_updated": "1697853684",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/hchvrkY"
+      }
+    },
+    "22": {
+      "title": "Ch 22",
+      "volume": "1",
+      "last_updated": "1697853889",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/jyaBB9n"
+      }
     }
   }
 }
