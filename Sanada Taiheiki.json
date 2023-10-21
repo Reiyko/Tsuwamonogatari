@@ -76,6 +76,14 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/wZr6CCG"
       }
+    },
+    "10": {
+      "title": "Sanada Vol 10",
+      "volume": "10",
+      "last_updated": "1697928647",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/u0PCrLL"
+      }
     }
   }
 }
