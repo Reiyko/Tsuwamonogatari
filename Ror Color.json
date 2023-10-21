@@ -44,6 +44,22 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/gHFoHaQ"
       }
+    },
+    "8": {
+      "title": "Ch 8",
+      "volume": "1",
+      "last_updated": "1697852658",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/KhDl1FU"
+      }
+    },
+    "9": {
+      "title": "Ch 9",
+      "volume": "1",
+      "last_updated": "1697852806",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/jlvUQHF"
+      }
     }
   }
 }
