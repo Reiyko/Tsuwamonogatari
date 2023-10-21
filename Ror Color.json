@@ -1,8 +1,17 @@
 {
-  "title": "Ror Color",
-  "description": "",
-  "artist": "",
-  "author": "",
-  "cover": "",
-  "chapters": {}
+  "title": "Record of Ragnarök-All Natural Color",
+  "description": "Over 15 million copies in print!\nThe extremely popular work \"Record of Ragnarök\", which has been adapted into an anime, a stage play, and many other projects, has been adapted into a full-color manga for vertical reading!\nBased on the original spread manga version, the pictures, panel layout, and direction have been newly drawn and reconstructed!\n\"Record of Ragnarök\" is reborn with a presentation that only a vertically-reading full-color manga can provide!\n\nGods of the world vs. great men and women, warriors and outstanding figures!!!! The gods decide to annihilate mankind in response to mankind's rampant violence on earth.\nTo overturn this decision, thirteen warriors, the strongest in human history, have been chosen.\nCan they win the thirteenth battle against the gods and keep the human race alive?\nThe first round will be the strongest of the Norse mythology, \"Thor\" vs. the strongest of the Romance of the Three Kingdoms, \"Lu Bü\"! The battle for the survival of mankind begins now!\n\nCredits: \"Record of Ragnarök\" (original story) / \"Record of Ragnarök-All Natural Color\" Staff: Shunji Kitamura (script/name) Sei Kuzaki (direction) Ao Asahi (character line drawings) Ichika Uzu (character line drawings) Katsuki Tamaya (background line drawings) Safu818 (coloring) Haruka Fukase (coloring) Wanatsu (coloring) Amaki (line drawing supervision) Amagi (line drawing supervisor), Brain (coloring and finishing supervisor), Nanami (coloring and finishing supervisor), Hinako Nemoto (production progression)",
+  "artist": "Whomor",
+  "author": "Coamix",
+  "cover": "https://cmoa.akamaized.net/data/image/title/title_0000278903/VOLUME/100002789030001.jpg",
+  "chapters": {
+    "1": {
+      "title": "Ch 1",
+      "volume": "1",
+      "last_updated": "1697849076",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Ti5jYru"
+      }
+    }
+  }
 }
