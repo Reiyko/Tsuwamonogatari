@@ -37,6 +37,22 @@
         "": "/proxy/api/imgur/chapter/vq95MAr"
       }
     },
+    "5": {
+      "title": "Ch 5",
+      "volume": "1",
+      "last_updated": "1698774118",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/g5j6jqL"
+      }
+    },
+    "6": {
+      "title": "Ch 6",
+      "volume": "1",
+      "last_updated": "1698774208",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/IxlQl5Q"
+      }
+    },
     "7": {
       "title": "Ch 7",
       "volume": "1",
@@ -75,6 +91,14 @@
       "last_updated": "1697853684",
       "groups": {
         "": "/proxy/api/imgur/chapter/hchvrkY"
+      }
+    },
+    "12": {
+      "title": "Ch 12",
+      "volume": "1",
+      "last_updated": "1698774662",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/z7dMVjF"
       }
     },
     "22": {
