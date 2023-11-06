@@ -4,5 +4,14 @@
   "artist": "Akiyo Ohkubo",
   "author": "Akiyo Ohkubo",
   "cover": "https://pbs.twimg.com/media/F9-YR6YX0AAKy5i?format=jpg&name=large",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Vlad Vol 1",
+      "volume": "1",
+      "last_updated": "1699311725",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/cSXWCsC"
+      }
+    }
+  }
 }
