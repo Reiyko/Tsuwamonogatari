@@ -252,6 +252,14 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/V0vlqgt"
       }
+    },
+    "32": {
+      "title": "Chapter 32",
+      "volume": "9",
+      "last_updated": "1700409476",
+      "groups": {
+        "https://imgur.com/gallery/UNVUNyi": ""
+      }
     }
   }
 }
