@@ -4,5 +4,14 @@
   "artist": "Yoshioka Chihiro",
   "author": "Yoshioka Chihiro",
   "cover": "https://pbs.twimg.com/media/F_TC_FpXgAAkxkP?format=jpg&name=large",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Farewell My Odin Vol 1",
+      "volume": "1",
+      "last_updated": "1701024962",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/pbOQV7L"
+      }
+    }
+  }
 }
