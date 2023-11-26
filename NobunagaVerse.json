@@ -4,5 +4,14 @@
   "artist": "Atsushi",
   "author": "Antai, Zeami",
   "cover": "https://pbs.twimg.com/media/F-SVbCiW0AAiWeb?format=jpg&name=large",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Nobunaga Vol 1",
+      "volume": "1",
+      "last_updated": "1701027893",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/AQjhUFJ"
+      }
+    }
+  }
 }
