@@ -188,6 +188,22 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/xQlB8p9"
       }
+    },
+    "29": {
+      "title": "Ch 29",
+      "volume": "1",
+      "last_updated": "1701395275",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/yCfw8AN"
+      }
+    },
+    "30": {
+      "title": "Ch 30",
+      "volume": "1",
+      "last_updated": "1701395330",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/QEWPaaC"
+      }
     }
   }
 }
