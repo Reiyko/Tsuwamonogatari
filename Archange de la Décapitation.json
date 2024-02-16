@@ -3,6 +3,15 @@
   "description": "The time is the French Revolution.there was a revolutionary who sent Louis XVI and Marie Antoinette to the beheading and was nicknamed the \"Angel Chief of Death\". His name was Saint-Juste. His brutal and gruesome executions of evil-doing aristocrats eventually led to a major turning point of the times, the \"Revolution. This is the story of a man who killed the kingdom of France for love.",
   "artist": "Meiji Mellow",
   "author": "Sora Karin",
-  "cover": "",
-  "chapters": {}
+  "cover": "https://cdn.discordapp.com/attachments/1192350869673480194/1207839359160549376/cover.jpg?ex=65e11b0f&is=65cea60f&hm=8d257d73ec963bd55a9d68af10e8a70dc1ca774604841e7b26106618a3a8dd25&",
+  "chapters": {
+    "1": {
+      "title": "Archange de la Décapitation Vol 1",
+      "volume": "1",
+      "last_updated": "1708042942",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/jX2T670"
+      }
+    }
+  }
 }
