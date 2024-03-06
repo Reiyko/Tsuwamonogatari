@@ -22,11 +22,19 @@
       }
     },
     "3": {
-      "title": "3",
+      "title": "Ningen Card Vol 3",
       "volume": "3",
       "last_updated": "1709686066",
       "groups": {
         "": "/proxy/api/imgur/chapter/t3j6NdC"
+      }
+    },
+    "4": {
+      "title": "Ningen Card Vol 4",
+      "volume": "4",
+      "last_updated": "1709687034",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/CzVe1Iq"
       }
     }
   }
