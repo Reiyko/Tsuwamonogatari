@@ -7,10 +7,18 @@
   "chapters": {
     "1": {
       "title": "Ningen Card Vol 1",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1709683604",
       "groups": {
         "": "/proxy/api/imgur/chapter/G7ZnjGi"
+      }
+    },
+    "2": {
+      "title": "Ningen Card Vol 2",
+      "volume": "2",
+      "last_updated": "1709683986",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/l568SyP"
       }
     }
   }
