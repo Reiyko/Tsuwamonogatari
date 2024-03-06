@@ -4,5 +4,14 @@
   "artist": "Shiozuka Makoto",
   "author": "Kuroi Ransuke",
   "cover": "https://mangadex.org/covers/a51fcac5-47a6-47aa-81d1-b10fefdc80ad/df567e2b-6c6d-4489-97d9-10bcd56d667c.png",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Ningen Card Vol 1",
+      "volume": "",
+      "last_updated": "1709683604",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/G7ZnjGi"
+      }
+    }
+  }
 }
