@@ -4,5 +4,14 @@
   "artist": "Azychika",
   "author": "Umemura Shin'ya & Fukui Takumi",
   "cover": "https://mangadex.org/covers/b5b21ca1-bba5-4b9a-8cd1-6248f731650b/42c84936-16b0-4722-88cd-ae76791fd733.png",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Ror Vol 1",
+      "volume": "1",
+      "last_updated": "1710604979",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/BUJuv6m"
+      }
+    }
+  }
 }
