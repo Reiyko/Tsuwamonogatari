@@ -52,6 +52,30 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/OPZ6oIW"
       }
+    },
+    "7": {
+      "title": "Majo Taisen Vol 7",
+      "volume": "7",
+      "last_updated": "1711246501",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/rMnCr0a"
+      }
+    },
+    "8": {
+      "title": "Majo Taisen Vol 8",
+      "volume": "8",
+      "last_updated": "1711246528",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/jvj5HK9"
+      }
+    },
+    "9": {
+      "title": "Majo Taisen Vol 9",
+      "volume": "9",
+      "last_updated": "1711246563",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/aP8EBTj"
+      }
     }
   }
 }
